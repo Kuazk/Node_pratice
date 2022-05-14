@@ -5,5 +5,9 @@ import fs from 'fs';
 const a = largeNumber;
 const b = 5;
 
-console.log(a,b); 
+
+console.log(fs);
+
+console.log(a,b);
+
 
